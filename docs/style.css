@@ -4,6 +4,10 @@ h1 {
         font-size: 75px;
           text-align: center;
 }
+img {
+   style=width:500px;
+  height:600px;
+}
 p {
   color : blue;
   text-align: center;
