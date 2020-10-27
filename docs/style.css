@@ -1,0 +1,13 @@
+h1 { 
+  color: green;
+      font-weight: 900;
+        font-size: 75px
+}
+p {
+  color : blue
+}
+p em {
+  color : red;
+    font-weight: 900;
+      font-size: 35px
+}
