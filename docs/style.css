@@ -3,18 +3,11 @@ h1 {
       font-weight: 900;
         font-size: 75px
 }
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
-img src="vicious beast.jpg" alt="vicious beast";
 p {
   color : blue
 }
 p em {
-  color : red;
+  color : green;
     font-weight: 900;
-      font-size: 35px
+      font-size: 25px
 }
